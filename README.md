@@ -1,0 +1,1 @@
+An AI/ML, NLP, and Gemini-powered Python CLI system that parses PDF resumes (PyMuPDF/NLTK), extracts skills, recommends career paths via TF-IDF and Cosine Similarity, performs job-description skill-gap analysis, and offers truthful resume rewrites, learning roadmaps, and an interactive career guidance chatbot.
